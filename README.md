@@ -10,5 +10,3 @@ https://user-images.githubusercontent.com/22084147/145068299-9b2b712d-bed3-4376-
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=beans816&layout=compact&theme=maroongold" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=beans816&count_private=true&theme=maroongold" /><img align = "top" src="https://user-images.githubusercontent.com/22084147/145272166-f202872b-e671-45a2-beec-c4190ce270a2.gif" width="325" height="200" alt="mad">
-
-<img src="https://user-images.githubusercontent.com/22084147/144990112-4659898c-07e6-47ad-b93a-93e27fb05599.gif" alt="peachswim" height="225" width="450" /> 
